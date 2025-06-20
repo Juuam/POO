@@ -1,0 +1,8 @@
+************ESTUDAR POO*********************
+
+Categorização BCE
+javafx
+conexão com BD
+quando usar ponto
+implementação
+instanciar
